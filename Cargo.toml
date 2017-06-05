@@ -1,0 +1,7 @@
+[package]
+name = "blinken"
+version = "0.1.0"
+authors = ["mattc"]
+
+[dependencies]
+serial = "0.3"
